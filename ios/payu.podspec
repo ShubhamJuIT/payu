@@ -3,7 +3,7 @@
 # Run `pod lib lint payu_money_flutter.podspec' to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'payu_money_flutter'
+  s.name             = 'payu'
   s.version          = '0.0.1'
   s.summary          = 'A new flutter plugin project.'
   s.description      = <<-DESC
