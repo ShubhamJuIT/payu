@@ -1,6 +1,6 @@
 #import "PayuMoneyFlutterPlugin.h"
-#if __has_include(<payu_money_flutter/payu_money_flutter-Swift.h>)
-#import <payu_money_flutter/payu_money_flutter-Swift.h>
+#if __has_include(<payu/payu-Swift.h>)
+#import <payu/payu-Swift.h>
 #else
 // Support project import fallback if the generated compatibility header
 // is not copied when this plugin is created as a library.
