@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:payu_money_flutter/payu_money_flutter.dart';
+import 'package:payu/payu_money_flutter.dart';
 
 void main() {
   const MethodChannel channel = MethodChannel('payu_money_flutter');
